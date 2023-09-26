@@ -2,6 +2,10 @@
 
 An awesome list of papers and tools about the class activation map (CAM) technology.
 
+> Class activation maps could be used to interpret the prediction decision made by the convolutional neural network (CNN).
+>
+> <https://paperswithcode.com/method/cam>
+
 ## 📚 Paper
 
 ### 2016
@@ -34,11 +38,16 @@ An awesome list of papers and tools about the class activation map (CAM) technol
 - [Integrated Grad-Cam] Integrated Grad-Cam: Sensitivity-Aware Visual Explanation of Deep Convolutional Networks Via Integrated Gradient-Based Scoring | [ICASSP 2021](https://doi.org/10.1109/ICASSP39728.2021.9415064)
 - [LFI-CAM] LFI-CAM: Learning Feature Importance for Better Visual Explanation | [ICCV 2021](https://doi.org/10.1109/ICCV48922.2021.00139)
 - [LayerCAM] LayerCAM: Exploring Hierarchical Class Activation Maps for Localization | [TIP 2021](https://doi.org/10.1109/TIP.2021.3089943)
+- [CALM] Keep CALM and Improve Visual Feature Attribution | [Arxiv 2021](https://arxiv.org/abs/2106.07861), [ICCV 2021](https://doi.org/10.1109/ICCV48922.2021.00824) | [Code](https://github.com/naver-ai/calm)
 
 ### 2022
 
 - [Abs-CAM] Abs-CAM: A Gradient Optimization Interpretable Approach for Explanation of Convolutional Neural Networks | [Arxiv 2022](https://arxiv.org/abs/2207.03648), [SIViP 2023](https://doi.org/10.1007/s11760-022-02313-0)
-- [Recipro-CAM] Recipro-CAM: Fast gradient-free visual explanations for convolutional neural networks | [Arxiv 2022](https://arxiv.org/abs/2209.14074)    
+- [Recipro-CAM] Recipro-CAM: Fast gradient-free visual explanations for convolutional neural networks | [Arxiv 2022](https://arxiv.org/abs/2209.14074)
+
+### 2023
+
+- [Opti-CAM] Opti-CAM: Optimizing saliency maps for interpretability | [Arxiv 2023](https://arxiv.org/abs/2301.07002)
 
 ## 🧰 Tool
 
